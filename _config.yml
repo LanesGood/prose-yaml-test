@@ -26,6 +26,11 @@ prose:
           element: "text"
           label: "Splash image"
           value: ""
+      - name: "summary"
+        field:
+          element: "text"
+          label: "Summary"
+          value: ""
       - name: "tags"
         field:
           element: "multiselect"
