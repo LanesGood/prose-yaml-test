@@ -7,6 +7,7 @@ title: Untitled
 tags:
   - apples
   - pears
+summary: This is a summary. It includes some text. Plain text only.
 ---
 
 
