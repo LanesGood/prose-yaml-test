@@ -31,6 +31,11 @@ prose:
           element: "text"
           label: "Summary"
           value: ""
+      - name: "overview"
+        field:
+          element: "textarea"
+          label: "Overview"
+          value: ""
       - name: "tags"
         field:
           element: "multiselect"
