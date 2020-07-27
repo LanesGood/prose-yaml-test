@@ -4,9 +4,7 @@ category: blog
 published: true
 splash: 'http://placehold.it/1600x500'
 title: Untitled
-overview: >-
-  This is a test - list item 1 - list item 2 [Hello
-  world](https://www.google.com)
+overview: Testing simple overview
 summary: test summary
 ---
 
