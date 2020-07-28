@@ -8,13 +8,11 @@ tags:
   - apples
   - pears
 summary: This is a summary. It includes some text. Plain text only.
-overview: |
-  Testing simple overview
-  Now a multi-line overview.
-
+overview: |-
+  Testing simple overview Now a multi-line overview.
   Will it save?
-
-  ## Who knows?
+test: this is test meta
+OK: does this work?
 ---
 
 
